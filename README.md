@@ -17,19 +17,19 @@ Jupyter Notebook containing the code for data preprocessing and visualization:
 
 ## Steps
 
-1. Data Loading and Exploration:
+**1. Data Loading and Exploration:**
    - Load the datasets using pandas.
    - Display the first few rows to understand the structure of the dataset.
    - Check for missing values and data types.
 
-2. Visualization:
+**2. Visualization:**
    - Visualize the data on a 2D plot.
 
-3. Data Preprocessing:
+**3. Data Preprocessing:**
    - Extract relevant features.
    - Group by items and create a new column.
 
-4. k-Nearest Neighbors (kNN)
+**4. k-Nearest Neighbors (kNN)**
    - Apply the kNN algorithm.
    - Convert our table to a 2D matrix, and fill the missing values with zeros.
 
