@@ -1,5 +1,5 @@
 # Book Recommendation System 📖
-## Overwiew
+## Overview
 
 In this Data Science project, you will see how to build a Book Recommendation System model using Machine Learning Techniques.
 
